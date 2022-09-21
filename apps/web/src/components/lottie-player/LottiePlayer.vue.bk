@@ -1,0 +1,52 @@
+<template>
+  <component :is="tag" ref="refContainer"></component>
+</template>
+
+<script lang="ts">
+import { defineComponent, ref, unref, onMounted } from 'vue'
+import Lottie, { AnimationItem } from 'lottie-web'
+import VueTypes from 'vue-types'
+
+export default defineComponent({
+  name: 'LottiePlayer',
+
+  emits: ['created'],
+
+  props: {
+    tag: VueTypes.string.def('div'),
+    loop: VueTypes.bool.def(false),
+    autoplay: VueTypes.bool.def(false),
+    speed: VueTypes.number.def(1),
+    animationData: VueTypes.object.isRequired,
+    rendererSettings: VueTypes.object,
+  },
+
+  setup(props, context) {
+    const refContainer = ref<HTMLElement | null>(null)
+
+    let anim = {} as AnimationItem
+    onMounted(() => {
+      const elContainer = unref(refContainer)
+      if (elContainer !== null) {
+        const { loop, autoplay, speed, animationData, rendererSettings } = props
+        anim = Lottie.loadAnimation({
+          container: elContainer,
+          renderer: 'svg',
+          loop,
+          autoplay,
+          animationData,
+          rendererSettings,
+        })
+
+        anim.setSpeed(speed)
+
+        context.emit('created', anim)
+      }
+    })
+
+    return {
+      refContainer,
+    }
+  },
+})
+</script>

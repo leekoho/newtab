@@ -1,0 +1,36 @@
+.el-loading-spinner .circular {
+  display: inline;
+}
+
+.el-dialog {
+  @apply overflow-hidden;
+  &__header {
+    //@apply border-b-1;
+    //padding-bottom: 20px !important;
+  }
+  &__footer {
+    @apply bg-gray-100;
+    padding-top: 20px !important;
+  }
+}
+
+.el-drawer {
+  &__header {
+    margin-bottom: 0;
+    padding-bottom: var(--el-drawer-padding-primary);
+  }
+}
+
+.el-upload {
+  display: block;
+  &-dragger {
+    width: 100%;
+    @apply w-full bg-gray-100;
+  }
+}
+
+.el-textarea {
+  &__inner {
+    @apply border-none bg-gray-100;
+  }
+}

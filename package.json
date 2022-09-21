@@ -1,0 +1,24 @@
+{
+  "name": "newtab",
+  "private": true,
+  "version": "1.0.0",
+  "packageManager": "pnpm@7.12.1",
+  "author": "李嘉豪 <leekoho95@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "pnpm -F @newtab/server run start:dev & pnpm -F @newtab/web run dev"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "prettier-plugin-tailwindcss": "^0.1.13"
+  },
+  "pnpm": {
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "webpack",
+        "express",
+        "sortablejs"
+      ]
+    }
+  }
+}

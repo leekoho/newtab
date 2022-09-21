@@ -1,0 +1,1058 @@
+[
+  {
+    "name": "影驰Geforce RTX 3090 HOF Extreme 限量版",
+    "score": "7612",
+    "core_clock": "基础频率：1395MHz加速频率：1860MHz",
+    "stream_pro": "10496个",
+    "memory_rate": "GDDR6X",
+    "memory_size": "24GB"
+  },
+  {
+    "name": "华硕TUF-RTX3090-24G-GAMING",
+    "score": "7299",
+    "core_clock": "1695-1725MHz",
+    "stream_pro": "10496个",
+    "memory_rate": "GDDR6X",
+    "memory_size": "24GB"
+  },
+  {
+    "name": "七彩虹iGame GeForce RTX 3090 Advanced OC",
+    "score": "7297",
+    "core_clock": "1395-1755MHz",
+    "stream_pro": "10496个",
+    "memory_rate": "GDDR6X",
+    "memory_size": "24GB"
+  },
+  {
+    "name": "耕升GeForce RTX 3090 炫光",
+    "score": "7258",
+    "core_clock": "1695MHz",
+    "stream_pro": "10496个",
+    "memory_rate": "GDDR6X",
+    "memory_size": "24GB"
+  },
+  {
+    "name": "影驰GeForce RTX 3090 GAMER OC",
+    "score": "7228",
+    "core_clock": "1755MHz",
+    "stream_pro": "10496个",
+    "memory_rate": "GDDR6X",
+    "memory_size": "24GB"
+  },
+  {
+    "name": "AMD Radeon RX 6900 XT显卡",
+    "score": "7220",
+    "core_clock": "2015-2250MHz",
+    "stream_pro": "5120个",
+    "memory_rate": "GDDR6",
+    "memory_size": "16GB"
+  },
+  {
+    "name": "蓝宝石Radeon RX 6800 XT 16G GDDR6 超白金 OC",
+    "score": "7192",
+    "core_clock": "游戏频率：2110MHz加速频率：2360MHzMHz",
+    "stream_pro": "4608个",
+    "memory_rate": "GDDR6",
+    "memory_size": "16GB"
+  },
+  {
+    "name": "迪兰6800 XT 16G X战神",
+    "score": "7155",
+    "core_clock": "游戏频率：2110MHz加速频率：2360MHz",
+    "stream_pro": "4608个",
+    "memory_rate": "GDDR6",
+    "memory_size": "16GB"
+  },
+  {
+    "name": "AMD Radeon RX 6800 XT显卡",
+    "score": "7066",
+    "core_clock": "加速频率：2250MHz游戏频率：Up to 2015MHz",
+    "stream_pro": "4608个",
+    "memory_rate": "GDDR6",
+    "memory_size": "16GB"
+  },
+  {
+    "name": "技嘉AORUS GeForce RTX 3080 XTREME 10G",
+    "score": "6922",
+    "core_clock": "1710-1905MHz",
+    "stream_pro": "8‎704个",
+    "memory_rate": "GDDR6X",
+    "memory_size": "10GB"
+  },
+  {
+    "name": "华硕TUF-RTX3080-O10G-GAMING",
+    "score": "6700",
+    "core_clock": "1440-1815MHz",
+    "stream_pro": "8704个",
+    "memory_rate": "GDDR6X",
+    "memory_size": "10GB"
+  },
+  {
+    "name": "微星GeForce RTX 3080 SUPRIM X 10G",
+    "score": "6605",
+    "core_clock": "极限频率：1920MHz游戏频率：1905MHz",
+    "stream_pro": "8704个",
+    "memory_rate": "GDDR6X",
+    "memory_size": "10GB"
+  },
+  {
+    "name": "技嘉GeForce RTX 3080 GAMING OC 10G",
+    "score": "6556",
+    "core_clock": "1710-1800MHz",
+    "stream_pro": "8‎704个",
+    "memory_rate": "GDDR6X",
+    "memory_size": "10GB"
+  },
+  {
+    "name": "七彩虹iGame GeForce RTX 3080 Vulcan 10G",
+    "score": "6530",
+    "core_clock": "1440-1710MHz",
+    "stream_pro": "8704个",
+    "memory_rate": "GDDR6X",
+    "memory_size": "10GB"
+  },
+  {
+    "name": "索泰GeForce RTX 3080-10G6X 天启 OC",
+    "score": "6525",
+    "core_clock": "1440-1740MHz",
+    "stream_pro": "8704个",
+    "memory_rate": "GDDR6X",
+    "memory_size": "10GB"
+  },
+  {
+    "name": "影驰GeForce RTX 3080 黑将",
+    "score": "6511",
+    "core_clock": "1440-1710MHz",
+    "stream_pro": "8704个",
+    "memory_rate": "GDDR6X",
+    "memory_size": "10GB"
+  },
+  {
+    "name": "耕升GeForce RTX 3080 炫光-10G",
+    "score": "6501",
+    "core_clock": "1710MHz",
+    "stream_pro": "8704个",
+    "memory_rate": "GDDR6X",
+    "memory_size": "10GB"
+  },
+  {
+    "name": "NVIDIA GeForce RTX 3080显卡",
+    "score": "6497",
+    "core_clock": "加速频率：1710MHz基础频率：1440MHz",
+    "stream_pro": "8704个",
+    "memory_rate": "GDDR6X",
+    "memory_size": "10GB"
+  },
+  {
+    "name": "七彩虹iGame GeForce RTX 3080 Ultra W OC 10G",
+    "score": "6469",
+    "core_clock": "1710-1755MHz",
+    "stream_pro": "8704个",
+    "memory_rate": "GDDR6X",
+    "memory_size": "10GB"
+  },
+  {
+    "name": "Inno3D GeForce RTX 3080冰龙超级版",
+    "score": "6325",
+    "core_clock": "1770MHz",
+    "stream_pro": "8704个",
+    "memory_rate": "GDDR6X",
+    "memory_size": "10GB"
+  },
+  {
+    "name": "蓝宝石Radeon RX 6800 16G GDDR6 超白金 OC",
+    "score": "6016",
+    "core_clock": "游戏频率：1980MHz加速频率：2190MHzMHz",
+    "stream_pro": "3840个",
+    "memory_rate": "GDDR6",
+    "memory_size": "16GB"
+  },
+  {
+    "name": "AMD Radeon RX 6800显卡",
+    "score": "5937",
+    "core_clock": "1815-2105MHz",
+    "stream_pro": "3840个",
+    "memory_rate": "GDDR6",
+    "memory_size": "16GB"
+  },
+  {
+    "name": "华硕ROG-MATRIX-RTX2080Ti-P11G-GAMING",
+    "score": "5449",
+    "core_clock": "超频模式-GPU 加速频率: 1815MHz，GPU 基础频率: 1350MHz游戏模式(默认)-GPU 加速频率: 1800MHz，GPU 基础频率: 1350MHz",
+    "stream_pro": "4352个",
+    "memory_rate": "GDDR6",
+    "memory_size": "11GB"
+  },
+  {
+    "name": "七彩虹iGame GeForce RTX 2080 Ti Kudan",
+    "score": "5370",
+    "core_clock": "基础频率：Base:1350Mhz；Boost:1545Mhz一键OC核心频率：Base:1350Mhz；Boost:1815MHz",
+    "stream_pro": "4352个",
+    "memory_rate": "GDDR6",
+    "memory_size": "11GB"
+  },
+  {
+    "name": "七彩虹iGame GeForce RTX 2080 Ti Vulcan X OC",
+    "score": "5258",
+    "core_clock": "基础频率：Base：1350MHz；Boost：1545MHz一键OC核心频率：Base：1350MHz；Boost：1770MHz",
+    "stream_pro": "4352个",
+    "memory_rate": "GDDR6",
+    "memory_size": "11GB"
+  },
+  {
+    "name": "索泰GeForce RTX 2080Ti-11GD6 玩家力量至尊PGF OC14",
+    "score": "5205",
+    "core_clock": "1350-1755MHz",
+    "stream_pro": "4352个",
+    "memory_rate": "GDDR6",
+    "memory_size": "11GB"
+  },
+  {
+    "name": "影驰GeForce RTX 3070 GAMER OC",
+    "score": "5184",
+    "core_clock": "1800MHz",
+    "stream_pro": "5888个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "影驰GeForce RTX 2080Ti HOF 10th ANNIVERSARY EDITION",
+    "score": "5162",
+    "core_clock": "1740MHz",
+    "stream_pro": "4352个",
+    "memory_rate": "GDDR6",
+    "memory_size": "11GB"
+  },
+  {
+    "name": "Inno3D GeForce RTX 3070冰龙超级版",
+    "score": "5146",
+    "core_clock": "1785MHz",
+    "stream_pro": "5888个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "七彩虹iGame GeForce RTX 3070 Ultra OC",
+    "score": "5145",
+    "core_clock": "",
+    "stream_pro": "5888个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "索泰GeForce RTX 3070-8GD6 X-GAMING OC",
+    "score": "5060",
+    "core_clock": "",
+    "stream_pro": "5888个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "耕升GeForce RTX 3070 炫光 OC",
+    "score": "5043",
+    "core_clock": "1785MHz",
+    "stream_pro": "5888个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "华硕ROG STRIX-RTX 2080Ti-O11G-GAMING",
+    "score": "5042",
+    "core_clock": "超频模式-GPU动态提速频率：1665MHz，GPU基础频率: 1350MHz游戏模式(默认)-GPU动态提速频率: 1650MHz，GPU基础频率：1350MHz",
+    "stream_pro": "4352个",
+    "memory_rate": "GDDR6",
+    "memory_size": "11GB"
+  },
+  {
+    "name": "NVIDIA GeForce RTX 2080Ti Founders Edition",
+    "score": "5000",
+    "core_clock": "1350/1635MHz",
+    "stream_pro": "4352个",
+    "memory_rate": "GDDR6",
+    "memory_size": "11GB"
+  },
+  {
+    "name": "NVIDIA GeForce RTX 3070显卡",
+    "score": "4975",
+    "core_clock": "加速频率：1730MHz基础频率：1500MHz",
+    "stream_pro": "5888个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "影驰GeForce RTX 2080Ti 大将",
+    "score": "4870",
+    "core_clock": "1635MHz",
+    "stream_pro": "4352个",
+    "memory_rate": "GDDR6",
+    "memory_size": "11GB"
+  },
+  {
+    "name": "技嘉RTX 2080Ti GAMING OC 11G",
+    "score": "4760",
+    "core_clock": "",
+    "stream_pro": "4352个",
+    "memory_rate": "GDDR6",
+    "memory_size": "11GB"
+  },
+  {
+    "name": "七彩虹iGame GeForce RTX 3060 Ti Ultra OC",
+    "score": "4457",
+    "core_clock": "基础频率：1410MHz，加速频率：1665MHz一键OC核心频率：1410MHz，加速频率：1770MHz",
+    "stream_pro": "4864个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "Inno3D GeForce RTX 3060Ti冰龙超级版",
+    "score": "4418",
+    "core_clock": "1725MHz",
+    "stream_pro": "4864个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "微星GeForce RTX 3060 Ti GAMING X TRIO",
+    "score": "4413",
+    "core_clock": "1830MHz",
+    "stream_pro": "4864个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "影驰GeForce RTX 3060Ti金属大师 OC",
+    "score": "4412",
+    "core_clock": "加速频率：1665MHz",
+    "stream_pro": "4864个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "NVIDIA GeForce RTX 3060 Ti显卡",
+    "score": "4341",
+    "core_clock": "基础频率：1410MHz加速频率：1670MHz",
+    "stream_pro": "4864个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "耕升GeForce RTX 3060 Ti 追风",
+    "score": "4312",
+    "core_clock": "1665MHz",
+    "stream_pro": "4864个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "索泰GeForce RTX 3060Ti X-GAMING OC",
+    "score": "4266",
+    "core_clock": "基础频率：1410MHz加速频率：1680MHz",
+    "stream_pro": "4864个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "耕升RTX 2080 SUPER G魂OC",
+    "score": "4200",
+    "core_clock": "",
+    "stream_pro": "3072个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "七彩虹iGame GeForce RTX 2080 SUPER Advanced OC",
+    "score": "4188",
+    "core_clock": "基础频率：Base:1650MHz；Boost:1815MHz一键OC核心频率：Base:1650MHz；Boost:1845MHz",
+    "stream_pro": "3072个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "七彩虹iGame GeForce RTX 2080 SUPER Vulcan X OC",
+    "score": "4182",
+    "core_clock": "基础频率：Base:1650MHz；Boost:1815MHz一键OC核心频率：Base:1650MHz；Boost:1860MHz",
+    "stream_pro": "3072个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "索泰RTX 2080 SUPER-8GD6 X-GAMING OC",
+    "score": "4160",
+    "core_clock": "1650-1845MHz",
+    "stream_pro": "3072个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "NVIDIA GeForce RTX 2080 SUPER Founders Edition",
+    "score": "4138",
+    "core_clock": "1650/1815MHz",
+    "stream_pro": "3072个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "索泰GeForce RTX 2080-8GD6 至尊PLUS OC",
+    "score": "4018",
+    "core_clock": "1515/1830MHz",
+    "stream_pro": "2944个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "华硕ROG STRIX-RTX 2080-O8G-GAMING",
+    "score": "4014",
+    "core_clock": "GPU动态提速频率：1890MHzGPU基础频率：1515MHz游戏模式(默认)-GPU动态提速频率：1860MHz，GPU基础频率：1515MHz",
+    "stream_pro": "2944个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "Inno3D GeForce RTX 2080 OC冰龙超级版",
+    "score": "4004",
+    "core_clock": "1515/1845MHz",
+    "stream_pro": "2944个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "NVIDIA GeForce RTX 2080 Founders Edition",
+    "score": "3926",
+    "core_clock": "1515/1800MHz",
+    "stream_pro": "2944个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "Inno3D GeForce RTX 2080 Gaming OC版",
+    "score": "3875",
+    "core_clock": "1710MHz",
+    "stream_pro": "2944个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "七彩虹iGame GeForce RTX 2070 SUPER Vulcan X OC",
+    "score": "3873",
+    "core_clock": "基础频率：Base:1605MHz；Boost:1770MHz一键OC核心频率：Base:1605MHz；Boost:1905MHz",
+    "stream_pro": "2560个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "七彩虹iGame GeForce RTX 2080 Vulcan X OC",
+    "score": "3842",
+    "core_clock": "1710/1875MHz",
+    "stream_pro": "2944个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "影驰GeForce RTX 2080 GAMER",
+    "score": "3836",
+    "core_clock": "1800MHz",
+    "stream_pro": "2944个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "耕升RTX 2080 G魂 OC",
+    "score": "3834",
+    "core_clock": "1845MHz",
+    "stream_pro": "2944个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "耕升RTX 2070 SUPER 炫光OC",
+    "score": "3729",
+    "core_clock": "",
+    "stream_pro": "2560个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "索泰GeForce RTX 2070 SUPER-8GD6 X-GAMING OC",
+    "score": "3721",
+    "core_clock": "1605/1785MHz",
+    "stream_pro": "2560个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "技嘉RTX 2080 GAMING OC 8G",
+    "score": "3674",
+    "core_clock": "",
+    "stream_pro": "2944个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "迪兰RX 5700 XT 8G X战神",
+    "score": "3673",
+    "core_clock": "1980MHz",
+    "stream_pro": "2560个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "蓝宝石RX 5700 XT 8G D6 超白金OC",
+    "score": "3669",
+    "core_clock": "基础频率：1770MHz游戏频率：1905MHzBoost频率：2010MHz",
+    "stream_pro": "2560个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "蓝宝石RX 5700 XT 8G D6 超白金极光特别版",
+    "score": "3643",
+    "core_clock": "加速频率：高达2035MHz游戏频率：1965MHz基础频率：1840MHz",
+    "stream_pro": "2560个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "迪兰RX 5700 XT 8G X战魔",
+    "score": "3640",
+    "core_clock": "1770-1905（BOOST 2010）MHz",
+    "stream_pro": "2560个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "AMD Radeon VII",
+    "score": "3631",
+    "core_clock": "1400MHz",
+    "stream_pro": "3840个",
+    "memory_rate": "HBM2",
+    "memory_size": "16GB"
+  },
+  {
+    "name": "索泰GeForce GTX 1080Ti-11GD5X 玩家力量至尊OC",
+    "score": "3606",
+    "core_clock": "1620/1733MHz",
+    "stream_pro": "3584个",
+    "memory_rate": "GDDR5X",
+    "memory_size": "11GB"
+  },
+  {
+    "name": "蓝宝石RX 5700 XT 8G D6 白金版OC",
+    "score": "3438",
+    "core_clock": "基础频率：1670MHz游戏频率：1815MHzBoost频率：1925MHz",
+    "stream_pro": "2560个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "迪兰RX 5700 XT 8G X战将",
+    "score": "3408",
+    "core_clock": "核心频率：1650-1795MHz峰值频率：1905MHz",
+    "stream_pro": "2560个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "技嘉GeForce RTX 2060 SUPER GAMING OC 8G",
+    "score": "3401",
+    "core_clock": "1815MHz",
+    "stream_pro": "2176个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "AMD Radeon RX 5700 XT显卡",
+    "score": "3353",
+    "core_clock": "基础频率：高达1605MHz，加速频率：高达1905MHz，Game Frequency：1755MHz",
+    "stream_pro": "2560个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "华硕ROG-STRIX-RTX2060S-O8G-GAMING OC",
+    "score": "3320",
+    "core_clock": "",
+    "stream_pro": "2176个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "NVIDIA GeForce RTX 2070 Founders Edition",
+    "score": "3305",
+    "core_clock": "1410/1710MHz",
+    "stream_pro": "2304个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "Inno3D GeForce RTX 2070 OC冰龙超级版",
+    "score": "3303",
+    "core_clock": "1410/1815MHz",
+    "stream_pro": "2304个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "影驰GeForce RTX 2070",
+    "score": "3248",
+    "core_clock": "1410/1620MHz",
+    "stream_pro": "2304个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "影驰GeForce RTX 2060 SUPER HOF Classic",
+    "score": "3224",
+    "core_clock": "基础频率：1470MHz，加速频率：1695MHz",
+    "stream_pro": "2176个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "微星GeForce RTX 2060 SUPER GAMING X",
+    "score": "3217",
+    "core_clock": "",
+    "stream_pro": "2176个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "影驰GeForce RTX 2060 SUPER 星曜",
+    "score": "3214",
+    "core_clock": "1695MHz",
+    "stream_pro": "2176个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "耕升RTX 2070 炫光",
+    "score": "3191",
+    "core_clock": "1620MHz",
+    "stream_pro": "2304个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "影驰GeForce RTX 2070 星曜",
+    "score": "3182",
+    "core_clock": "1620MHz",
+    "stream_pro": "2304个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "七彩虹iGame GeForce RTX 2070 Vulcan X OC",
+    "score": "3177",
+    "core_clock": "1620/1815MHz",
+    "stream_pro": "2304个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "Inno3D GeForce RTX 2060 SUPER冰龙超级版",
+    "score": "3174",
+    "core_clock": "1695MHz",
+    "stream_pro": "2176个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "索泰GeForce RTX 2070-8GD6 X-GAMING",
+    "score": "3161",
+    "core_clock": "1410/1620MHz",
+    "stream_pro": "2304个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "技嘉RTX 2070 WINDFORCE 8G",
+    "score": "3141",
+    "core_clock": "1620MHz",
+    "stream_pro": "2304个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "华硕ROG-STRIX-RTX 2070-O8G-GAMING",
+    "score": "3140",
+    "core_clock": "超频模式-GPU动态提速频率：1845MHz，GPU基础频率: 1410MHz游戏模式(默认)-GPU动态提速频率: 1815MHz，GPU基础频率：1410MHz",
+    "stream_pro": "2304个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "蓝宝石RX 5700 8G D6 超白金OC",
+    "score": "3116",
+    "core_clock": "基础频率：1610MHz游戏频率：1725MHzBoost频率：1750MHz",
+    "stream_pro": "2304个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "蓝宝石RX 5700 8G D6 白金版OC",
+    "score": "3044",
+    "core_clock": "基础频率：1540MHz游戏频率：1700MHzBoost频率：1750MHz",
+    "stream_pro": "2304个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "AMD Radeon RX 5700显卡",
+    "score": "3006",
+    "core_clock": "基频：高达1465MHz，提升频率：高达1725MHz，游戏频率：高达1625MHz",
+    "stream_pro": "2304个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "Inno3D GeForce RTX 2060冰龙超级版",
+    "score": "3003",
+    "core_clock": "1725MHz",
+    "stream_pro": "1920个",
+    "memory_rate": "GDDR6",
+    "memory_size": "6GB"
+  },
+  {
+    "name": "AMD Radeon RX 5600 XT显卡",
+    "score": "2905",
+    "core_clock": "游戏频率：1375MHzBoost频率：1560MHz",
+    "stream_pro": "2304个",
+    "memory_rate": "GDDR6",
+    "memory_size": "6GB"
+  },
+  {
+    "name": "技嘉RTX 2060 GAMING OC PRO 6G",
+    "score": "2779",
+    "core_clock": "1830MHz",
+    "stream_pro": "1920个",
+    "memory_rate": "GDDR6",
+    "memory_size": "6GB"
+  },
+  {
+    "name": "影驰GeForce RTX 2060 GAMER",
+    "score": "2767",
+    "core_clock": "1770MHz",
+    "stream_pro": "1920个",
+    "memory_rate": "GDDR6",
+    "memory_size": "6GB"
+  },
+  {
+    "name": "索泰GeForce RTX 2060-6GD6 至尊PLUS OC6",
+    "score": "2725",
+    "core_clock": "1365-1770MHz",
+    "stream_pro": "1920个",
+    "memory_rate": "GDDR6",
+    "memory_size": "6GB"
+  },
+  {
+    "name": "影驰GeForce RTX 2060 Mini",
+    "score": "2689",
+    "core_clock": "1680MHz",
+    "stream_pro": "1920个",
+    "memory_rate": "GDDR6",
+    "memory_size": "6GB"
+  },
+  {
+    "name": "Inno3D GeForce RTX 2060黑金至尊版",
+    "score": "2672",
+    "core_clock": "1680MHz",
+    "stream_pro": "1920个",
+    "memory_rate": "GDDR6",
+    "memory_size": "6GB"
+  },
+  {
+    "name": "NVIDIA GeForce RTX 2060 Founders Edition",
+    "score": "2671",
+    "core_clock": "1365/1680MHz",
+    "stream_pro": "1920个",
+    "memory_rate": "GDDR6",
+    "memory_size": "6GB"
+  },
+  {
+    "name": "七彩虹iGame GeForce RTX 2060 Ultra",
+    "score": "2644",
+    "core_clock": "基础频率：Base：1365Mhz；Boost:1680Mhz一键OC核心频率：Base：1365Mhz；Boost:1710MHz",
+    "stream_pro": "1920个",
+    "memory_rate": "GDDR6",
+    "memory_size": "6GB"
+  },
+  {
+    "name": "索泰GeForce GTX 1070Ti-8GD5 至尊PLUS",
+    "score": "2493",
+    "core_clock": "1607/1683MHz",
+    "stream_pro": "2432个",
+    "memory_rate": "GDDR5",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "耕升RTX 2060 G魂OC",
+    "score": "2365",
+    "core_clock": "1770MHz",
+    "stream_pro": "1920个",
+    "memory_rate": "GDDR6",
+    "memory_size": "6GB"
+  },
+  {
+    "name": "技嘉GTX 1660Ti GAMING OC 6G",
+    "score": "2221",
+    "core_clock": "1860MHz",
+    "stream_pro": "1536个",
+    "memory_rate": "GDDR6",
+    "memory_size": "6GB"
+  },
+  {
+    "name": "索泰GeForce GTX 1660 SUPER X-GAMING OC",
+    "score": "2219",
+    "core_clock": "1530-1815MHz",
+    "stream_pro": "1408个",
+    "memory_rate": "GDDR6",
+    "memory_size": "6GB"
+  },
+  {
+    "name": "技嘉GeForce GTX 1660 SUPER OC 6G",
+    "score": "2215",
+    "core_clock": "1830MHz",
+    "stream_pro": "1408个",
+    "memory_rate": "GDDR6",
+    "memory_size": "6GB"
+  },
+  {
+    "name": "七彩虹战斧 GeForce GTX 1660 SUPER 6G",
+    "score": "2197",
+    "core_clock": "基础频率 Base：1530MHz；Boost：1785MHz",
+    "stream_pro": "1408个",
+    "memory_rate": "GDDR6",
+    "memory_size": "6GB"
+  },
+  {
+    "name": "NVIDIA GeForce GTX 1660Ti",
+    "score": "2189",
+    "core_clock": "1500-1770MHz",
+    "stream_pro": "1536个",
+    "memory_rate": "GDDR6",
+    "memory_size": "6000MB"
+  },
+  {
+    "name": "华硕TUF3-GTX 1660S-O6G-GAMING OC",
+    "score": "2187",
+    "core_clock": "",
+    "stream_pro": "1408个",
+    "memory_rate": "GDDR6",
+    "memory_size": "6GB"
+  },
+  {
+    "name": "微星魔龙 GeForce GTX 1660 SUPER GAMING X",
+    "score": "2172",
+    "core_clock": "1830MHz",
+    "stream_pro": "1408个",
+    "memory_rate": "GDDR6",
+    "memory_size": "6GB"
+  },
+  {
+    "name": "影驰GeForce GTX 1660Ti 大将",
+    "score": "2158",
+    "core_clock": "1815MHz",
+    "stream_pro": "1536个",
+    "memory_rate": "GDDR6",
+    "memory_size": "6GB"
+  },
+  {
+    "name": "耕升GTX 1660Ti 追风",
+    "score": "2152",
+    "core_clock": "1785MHz",
+    "stream_pro": "1536个",
+    "memory_rate": "GDDR6",
+    "memory_size": "6GB"
+  },
+  {
+    "name": "Inno3D GeForce GTX 1660Ti黑金至尊版",
+    "score": "2138",
+    "core_clock": "1770MHz",
+    "stream_pro": "1536个",
+    "memory_rate": "GDDR6",
+    "memory_size": "6GB"
+  },
+  {
+    "name": "Inno3D GeForce GTX 1660 SUPER黑金至尊版",
+    "score": "2137",
+    "core_clock": "1785MHz",
+    "stream_pro": "1408个",
+    "memory_rate": "GDDR6",
+    "memory_size": "6GB"
+  },
+  {
+    "name": "影驰GeForce GTX 1660 SUPER 骁将",
+    "score": "2134",
+    "core_clock": "1785MHz",
+    "stream_pro": "1408个",
+    "memory_rate": "GDDR6",
+    "memory_size": "6GB"
+  },
+  {
+    "name": "耕升GTX 1660 SUPER 追风",
+    "score": "2125",
+    "core_clock": "1800MHz",
+    "stream_pro": "1408个",
+    "memory_rate": "GDDR6",
+    "memory_size": "6GB"
+  },
+  {
+    "name": "NVIDIA GeForce GTX 1660 SUPER",
+    "score": "2096",
+    "core_clock": "1530/1785MHz",
+    "stream_pro": "1408个",
+    "memory_rate": "GDDR6",
+    "memory_size": "6000MB"
+  },
+  {
+    "name": "华硕DUAL-RX 5500 XT-O8G-EVO",
+    "score": "2024",
+    "core_clock": "1717-1845MHz",
+    "stream_pro": "1408个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "七彩虹iGame GeForce GTX 1660 Ultra 6G",
+    "score": "1976",
+    "core_clock": "基础频率：Base:1530MHz；Boost:1785MHz一键OC核心频率：Base:1530MHz；Boost:1860MHz",
+    "stream_pro": "1408个",
+    "memory_rate": "GDDR5",
+    "memory_size": "6GB"
+  },
+  {
+    "name": "NVIDIA GeForce GTX 1660",
+    "score": "1944",
+    "core_clock": "1530-1785MHz",
+    "stream_pro": "1408个",
+    "memory_rate": "GDDR5",
+    "memory_size": "6000MB"
+  },
+  {
+    "name": "蓝宝石RX 5500 XT 8G D6 超白金极光特别版",
+    "score": "1925",
+    "core_clock": "游戏频率：1737MHzBOOST频率：1845MHz",
+    "stream_pro": "1408个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "华硕ROG-STRIX-GTX1650S-O4G-GAMING",
+    "score": "1923",
+    "core_clock": "1530-1815MHz",
+    "stream_pro": "1280个",
+    "memory_rate": "GDDR6",
+    "memory_size": "4GB"
+  },
+  {
+    "name": "蓝宝石RX 5500 XT 8G D6 白金版 OC",
+    "score": "1917",
+    "core_clock": "基础频率：1737MHz游戏频率：1845MHz",
+    "stream_pro": "1408个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "迪兰RX 5500 XT 8G X战将",
+    "score": "1909",
+    "core_clock": "1737-1845MHz",
+    "stream_pro": "1408个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "AMD Radeon RX 5500 XT",
+    "score": "1879",
+    "core_clock": "1845MHz，游戏频率：1717MHz",
+    "stream_pro": "1408个",
+    "memory_rate": "GDDR6",
+    "memory_size": "8000MB"
+  },
+  {
+    "name": "技嘉GTX 1660 GAMING OC 6G",
+    "score": "1877",
+    "core_clock": "1860MHz",
+    "stream_pro": "1408个",
+    "memory_rate": "GDDR5",
+    "memory_size": "6GB"
+  },
+  {
+    "name": "蓝宝石RX 590 GME 8G D5 超白金极光特别版",
+    "score": "1846",
+    "core_clock": "1380-1440MHz",
+    "stream_pro": "2304个",
+    "memory_rate": "GDDR5",
+    "memory_size": "8GB"
+  },
+  {
+    "name": "索泰GeForce GTX 1060-6GD5 X-Gaming OC",
+    "score": "1691",
+    "core_clock": "1569/1784MHz",
+    "stream_pro": "1280个",
+    "memory_rate": "GDDR5",
+    "memory_size": "6GB"
+  },
+  {
+    "name": "NVIDIA GeForce GTX 1650 SUPER",
+    "score": "1618",
+    "core_clock": "1530/1725MHz",
+    "stream_pro": "1280个",
+    "memory_rate": "GDDR6",
+    "memory_size": "4000MB"
+  },
+  {
+    "name": "耕升GTX 1650 SUPER 追风",
+    "score": "1599",
+    "core_clock": "1740MHz",
+    "stream_pro": "1280个",
+    "memory_rate": "GDDR6",
+    "memory_size": "4GB"
+  },
+  {
+    "name": "AMD Radeon RX 560 XT",
+    "score": "1451",
+    "core_clock": "973/1073MHz",
+    "stream_pro": "1792个",
+    "memory_rate": "GDDR5",
+    "memory_size": "4096MB"
+  },
+  {
+    "name": "技嘉GTX 1650 GAMING OC 4G",
+    "score": "1226",
+    "core_clock": "1815MHz",
+    "stream_pro": "896个",
+    "memory_rate": "GDDR5",
+    "memory_size": "4GB"
+  },
+  {
+    "name": "影驰GeForce GTX 1650 大将",
+    "score": "1195",
+    "core_clock": "1725MHz",
+    "stream_pro": "896个",
+    "memory_rate": "GDDR5",
+    "memory_size": "4GB"
+  },
+  {
+    "name": "七彩虹iGame GeForce GTX 1650 Ultra 4G",
+    "score": "1188",
+    "core_clock": "基础频率：Base:1485MHz；Boost:1665MHz一键OC核心频率：Base:1485MHz；Boost:1860MHz",
+    "stream_pro": "896个",
+    "memory_rate": "GDDR5",
+    "memory_size": "4GB"
+  },
+  {
+    "name": "耕升GTX 1650 炫光 OC",
+    "score": "1188",
+    "core_clock": "1725MHz",
+    "stream_pro": "896个",
+    "memory_rate": "GDDR5",
+    "memory_size": "4GB"
+  },
+  {
+    "name": "NVIDIA GeForce GTX 1650 GDDR5",
+    "score": "1156",
+    "core_clock": "1485/1665MHz",
+    "stream_pro": "896个",
+    "memory_rate": "GDDR5",
+    "memory_size": "4000MB"
+  }
+]

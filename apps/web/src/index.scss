@@ -1,0 +1,40 @@
+h1 {
+  @apply text-3xl;
+}
+
+h2 {
+  @apply text-2xl;
+}
+
+h3 {
+  @apply text-lg;
+}
+
+//svg {
+//  @apply text-base;
+//}
+
+#app {
+  @apply bg-gray-100 text-sm text-gray-700;
+}
+
+.hljs {
+  @apply break-words rounded p-3 font-mono text-sm text-gray-400;
+  @apply dark:(bg-gray-700) bg-gray-100;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+}
+
+//::-webkit-scrollbar {
+//  @apply w-2 bg-white;
+//
+//  &-track {
+//    //@apply bg-transparent;
+//  }
+//
+//  &-thumb {
+//    @apply rounded bg-gray-200;
+//  }
+//}
