@@ -6,11 +6,9 @@ importers:
     specifiers:
       prettier: ^2.7.1
       prettier-plugin-tailwindcss: ^0.1.13
-      typescript: ^4.8.3
     devDependencies:
       prettier: 2.7.1
       prettier-plugin-tailwindcss: 0.1.13_prettier@2.7.1
-      typescript: 4.8.3
 
   apps/server:
     specifiers:
@@ -134,7 +132,7 @@ importers:
   apps/web:
     specifiers:
       '@types/highlight.js': ^10.1.0
-      '@types/lodash': ^4.14.185
+      '@types/lodash-es': ^4.17.6
       '@types/node': ^18.7.18
       '@vitejs/plugin-vue': ^3.1.0
       '@vue/compiler-sfc': ^3.2.39
@@ -183,7 +181,7 @@ importers:
       vue-types: 4.2.1_vue@3.2.39
     devDependencies:
       '@types/highlight.js': 10.1.0
-      '@types/lodash': 4.14.185
+      '@types/lodash-es': 4.17.6
       '@types/node': 18.7.18
       '@vitejs/plugin-vue': 3.1.0_vite@3.1.3+vue@3.2.39
       '@vue/compiler-sfc': 3.2.39
@@ -197,12 +195,6 @@ importers:
       vite-plugin-windicss: 1.8.8_vite@3.1.3
       vue-tsc: 0.40.13_typescript@4.8.3
       windicss: 3.5.6
-
-  packages/tsconfig:
-    specifiers:
-      typescript: ^4.8.3
-    dependencies:
-      typescript: 4.8.3
 
 packages:
 
@@ -1552,7 +1544,6 @@ packages:
     resolution: {integrity: sha512-R+zTeVUKDdfoRxpAryaQNRKk3105Rrgx2CFRClIgRGaqDTdjsm8h6IYA8ir584W3ePzkZfst5xIgDwYrlh9HLg==}
     dependencies:
       '@types/lodash': 4.14.185
-    dev: false
 
   /@types/lodash/4.14.185:
     resolution: {integrity: sha512-evMDG1bC4rgQg4ku9tKpuMh5iBNEwNa3tf9zRHdP1qlv+1WUg44xat4IxCE14gIpZRGUUWAx2VhItCZc25NfMA==}
@@ -7624,6 +7615,9 @@ packages:
     peerDependencies:
       sortablejs: ^1.14.0
       vue: ^3.2.2
+    peerDependenciesMeta:
+      sortablejs:
+        optional: true
     dependencies:
       vue: 3.2.39
     dev: false

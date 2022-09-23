@@ -39,6 +39,8 @@ const dataSources: LabelValueOptions<DataSource> = [
 
 const dataSource = ref('')
 
+const onDataSourceChange = () => {}
+
 const text = ref('text-to-qrcode')
 const qrcode = useQRCode(text)
 </script>
