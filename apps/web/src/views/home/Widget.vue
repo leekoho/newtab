@@ -92,7 +92,7 @@ const widgets: Widget[] = [
     path: 'json',
   },
   {
-    title: '二维码',
+    title: '二维码生成 / 识别',
     description: '',
     icon: 'qrcode',
     path: 'qrcode',

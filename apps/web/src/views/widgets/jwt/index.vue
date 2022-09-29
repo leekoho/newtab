@@ -1,7 +1,7 @@
 <template>
   <div class="mb-5 flex items-center justify-between">
     <h4>Token</h4>
-    <el-button size="small" type="info" @click="paste">粘贴</el-button>
+    <!--    <el-button size="small" type="info" @click="paste">粘贴</el-button>-->
   </div>
   <el-input v-model="token" type="textarea" :rows="5" autofocus />
 

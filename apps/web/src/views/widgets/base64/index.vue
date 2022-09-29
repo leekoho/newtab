@@ -41,7 +41,7 @@
     :multiple="false"
     drag
     class="w-full"
-    :on-change="onFileListChange"
+    :on-change="onFileChange"
   >
     <div class="flex h-full flex-col items-center justify-center">
       <svg-icon name="upload" class="text-6xl text-gray-300" />
@@ -114,7 +114,7 @@ const doDecode = () => {
   }
 }
 
-const onFileListChange = (file: UploadFile) => {
+const onFileChange = (file: UploadFile) => {
   if (!file.raw) return
 
   const reader = new FileReader()

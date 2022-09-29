@@ -17,7 +17,7 @@
       <div class="h-full">
         <div class="my-5 flex items-center justify-between">
           <h4>输入</h4>
-          <el-button size="small" type="info">粘贴</el-button>
+          <!--          <el-button size="small" type="info">粘贴</el-button>-->
         </div>
         <textarea
           v-model="code"
