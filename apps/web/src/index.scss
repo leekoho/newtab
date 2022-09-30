@@ -1,3 +1,6 @@
+@import '@/plugins/element-plus/preflight.scss';
+@import '@/plugins/element-plus/element-variables.scss';
+
 h1 {
   @apply text-3xl;
 }
