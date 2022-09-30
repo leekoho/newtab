@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "@vueuse/core": "^9.2.0",
-    "@vueuse/integrations": "^9.2.0",
     "axios": "^0.27.2",
     "dayjs": "^1.11.5",
     "element-plus": "^2.2.17",
@@ -24,8 +23,7 @@
     "qrcode": "^1.5.1",
     "vue": "^3.2.39",
     "vue-draggable-next": "^2.1.1",
-    "vue-router": "^4.1.5",
-    "vue-types": "^4.2.1"
+    "vue-router": "^4.1.5"
   },
   "devDependencies": {
     "@types/highlight.js": "^10.1.0",

@@ -14,36 +14,22 @@
   </label>
 </template>
 
-<script lang="ts">
-import { defineComponent, computed, CSSProperties } from 'vue'
-import VueTypes from 'vue-types'
+<script lang="ts" setup>
+import { useVModel } from '@vueuse/core'
 
-type Booleanish = boolean | 'true' | 'false'
+const props = withDefaults(
+  defineProps<{
+    label: string
+    modelValue: boolean
+    disabled: boolean
+  }>(),
+  {
+    modelValue: false,
+    disabled: false,
+  }
+)
 
-export default defineComponent({
-  name: 'Checkbox',
+const emits = defineEmits(['update:modelValue'])
 
-  emits: ['update:modelValue', 'change'],
-
-  props: {
-    label: VueTypes.string,
-    modelValue: VueTypes.bool.def(false),
-    disabled: VueTypes.bool.def(false),
-  },
-
-  setup(props, context) {
-    const checked = computed<Booleanish>({
-      get() {
-        return props.modelValue
-      },
-      set(val) {
-        context.emit('update:modelValue', val)
-      },
-    })
-
-    return {
-      checked,
-    }
-  },
-})
+const checked = useVModel(props, 'modelValue', emits, { passive: true })
 </script>
