@@ -1,0 +1,71 @@
+#name: CI
+#
+#on:
+#  push:
+#    branches:
+#      - develop
+#
+#jobs:
+#  build:
+#    runs-on: ubuntu-latest
+#    strategy:
+#      matrix:
+#        node-version: [16]
+#    steps:
+#      - name: Checkout Code
+#      - uses: actions/checkout@v2
+#
+#      - name: Use pnpm
+#      - uses: pnpm/action-setup@v2.2.2
+#        with:
+#          version: 7
+#
+#      - name: Use Node.js ${{ matrix.node-version }}
+#        uses: actions/setup-node@v2
+#        with:
+#          node-version: ${{ matrix.node-version }}
+#          cache: 'pnpm'
+#
+#      - name: Install dependencies
+#        run: pnpm install
+
+name: CI
+on:
+  push:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [16]
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Use pnpm
+        uses: pnpm/action-setup@v2.2.2
+        with:
+          version: 7
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Build Web
+        run:
+          pnpm -F @newtab/web run build
+
+      - name: Deploy
+        uses: cross-the-world/scp-pipeline@master
+        with:
+          host: ${{ secrets.HOST }}
+          user: ${{ secrets.USER }}
+          pass: ${{ secrets.PASSWORD }}
+          connect_timeout: 10s
+          local: './apps/web/dist/*' # 这里是下一步要创建的vue项目构建完成后的静态资源路径
+          remote: '/home/leekoho/github_action_test' # 这里是 step1 中，在服务器上创建用于存放静态资源的文件夹
