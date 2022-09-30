@@ -19,7 +19,6 @@ export default defineConfig(({ mode }) => {
     envDir,
     envPrefix,
     server: {
-      port: env.VITE_PORT,
       proxy: {
         '/apis': `http://localhost:${env.APP_SERVER_PORT}`,
       },
